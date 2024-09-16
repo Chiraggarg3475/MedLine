@@ -1,8 +1,4 @@
 # CommunityCare Connect
-Here is the video link for full project in working: https://drive.google.com/file/d/12UYTVHIMvIfzWHWlnU1Ltq5kD67mDGP_/view?usp=drive_link
-
-Click here for demo:
-https://communitycare-connect-fkpk.onrender.com/
 
 A user-friendly Node.js & MySQL project connecting donors & the needy. 
 
