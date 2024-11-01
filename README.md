@@ -1,4 +1,4 @@
-# CommunityCare Connect
+# MedLine
 
 A user-friendly Node.js & MySQL project connecting donors & the needy. 
 
